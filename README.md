@@ -1,7 +1,7 @@
 # Dynamic Pricing Analysis using Web Scraping
 
 <p align="center">
-  <img src="C:\Users\test\Desktop\Dynamic Pricing Analysis of Electronics\images/Correlational_Heatmap.png" width="800">
+  <img src="images/Correlational_Heatmap.png" width="800">
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ dynamic_pricing_analysis.csv
 ## Discount Percentage Distribution
 
 <p align="center">
-  <img src="C:\Users\test\Desktop\Dynamic Pricing Analysis of Electronics\images/Distribution_of_Discount_Product.png" width="750">
+  <img src="images/Distribution_of_Discount_Product.png" width="750">
 </p>
 
 This histogram visualizes how discount percentages are distributed across products.
