@@ -315,10 +315,11 @@ This project helped in gaining practical experience in:
 
 ## Karthik J
 
-Aspiring Data Analyst | Python Developer | Data Visualization Enthusiast
+AIML Student at Vidyavardhaka College of Engineering, Mysore  
+Python Developer | Data Analytics | Visualization Enthusiast
 
 ---
 
 # License
 
-This project is developed for educational and learning purposes.
+This project was developed for educational purposes to demonstrate data analysis, visualization, and Python programming skills.
