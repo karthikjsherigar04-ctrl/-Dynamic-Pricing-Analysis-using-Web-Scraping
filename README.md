@@ -1,7 +1,7 @@
 # Dynamic Pricing Analysis using Web Scraping
 
 <p align="center">
-  <img src="images/heatmap.png" width="800">
+  <img src="images/Correlational_Heatmap.png" width="800">
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ dynamic_pricing_analysis.csv
 ## Discount Percentage Distribution
 
 <p align="center">
-  <img src="images/discount_distribution.png" width="750">
+  <img src="images/Distribution_of_Discount_Product.png" width="750">
 </p>
 
 This histogram visualizes how discount percentages are distributed across products.
@@ -173,7 +173,7 @@ This histogram visualizes how discount percentages are distributed across produc
 ## Original Price vs Selling Price
 
 <p align="center">
-  <img src="images/price_comparison.png" width="750">
+  <img src="images/Original_price_vs_Selling_price.png" width="750">
 </p>
 
 Comparison between original product prices and discounted selling prices.
@@ -183,7 +183,7 @@ Comparison between original product prices and discounted selling prices.
 ## Selling Price vs Reviews
 
 <p align="center">
-  <img src="images/scatter_plot.png" width="750">
+  <img src="images/Selling_price_vs_Reviews.png" width="750">
 </p>
 
 Scatter plot showing the relationship between selling prices and customer reviews.
@@ -193,7 +193,7 @@ Scatter plot showing the relationship between selling prices and customer review
 ## Top Discounted Products
 
 <p align="center">
-  <img src="images/top_discounted.png" width="750">
+  <img src="images/Top_Discounted_product.png" width="750">
 </p>
 
 Visualization of products with the highest discount percentages.
@@ -203,7 +203,7 @@ Visualization of products with the highest discount percentages.
 ## Ratings Distribution
 
 <p align="center">
-  <img src="images/ratings_distribution.png" width="750">
+  <img src="images/Rating_Distribution.png" width="750">
 </p>
 
 Distribution of customer ratings across products.
@@ -213,7 +213,7 @@ Distribution of customer ratings across products.
 ## Correlation Heatmap
 
 <p align="center">
-  <img src="images/heatmap.png" width="750">
+  <img src="images/Correlational_Heatmap.png" width="750">
 </p>
 
 Correlation analysis between pricing, discounts, reviews, and ratings.
@@ -223,7 +223,7 @@ Correlation analysis between pricing, discounts, reviews, and ratings.
 ## Top Reviewed Products
 
 <p align="center">
-  <img src="images/top_reviewed.png" width="750">
+  <img src="images/Top_Reviewed_product.png" width="750">
 </p>
 
 Products with the highest customer review counts.
@@ -244,7 +244,7 @@ Products with the highest customer review counts.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dynamic-pricing-analysis.git
+git clone https://github.com/karthikjsherigar04-ctrl/-Dynamic-Pricing-Analysis-using-Web-Scraping.git
 ```
 
 Navigate into the project directory:
